@@ -63,7 +63,11 @@ uv run python manage.py runserver
    - `ALLOWED_HOSTS` = `*`
 4. Deploy automático con cada push
 
-## API Endpoints
+## Screenshots
+
+| Home | Swagger UI |
+|------|------------|
+| ![Home](screenshot/docs.png) | ![Swagger](screenshot/swagger.png) |
 
 | Método | Ruta | Auth | Descripción |
 |--------|------|------|-------------|
