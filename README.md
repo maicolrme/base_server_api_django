@@ -2,6 +2,10 @@
 
 API REST con **Django** + **DRF** + **PostgreSQL** + **JWT**, desplegable en Vercel.
 
+➡️ **Producción:** [https://base-server-api-django.vercel.app](https://base-server-api-django.vercel.app)  
+📖 **Swagger:** [https://base-server-api-django.vercel.app/ui/](https://base-server-api-django.vercel.app/ui/)  
+🩺 **Health:** [https://base-server-api-django.vercel.app/health/](https://base-server-api-django.vercel.app/health/)
+
 ## Stack
 
 | Capa | Tecnología |
