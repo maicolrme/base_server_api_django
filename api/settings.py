@@ -98,7 +98,6 @@ SPECTACULAR_SETTINGS = {
     "TITLE": "Django API",
     "VERSION": "1.0.0",
     "DESCRIPTION": "REST API with Django + DRF + PostgreSQL",
-    "SERVERS": [{"url": os.getenv("BASE_URL", "http://localhost:8000")}],
     "SECURITY": [{"BearerAuth": []}],
 }
 
